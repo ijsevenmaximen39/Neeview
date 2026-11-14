@@ -200,4 +200,4 @@ This repository serves as the official landing page for NeeView. The software is
 **Get the most recent version of NeeView today!**
 
 ---
-**Last updated:** 2026-11-13 22:26:51 UTC
+**Last updated:** 2026-11-14 02:58:53 UTC
